@@ -26,6 +26,9 @@
   > - Even listener aangepast zodat iconen correct worden geüpdatet vóór de pop-up opent.
   > - Onderliggende structuren getest en verbeterd om te verzekeren dat alles soepel werkt.
   > - Nieuwe lettergrootte ingesteld in @media (max-width: 768px) zodat de titels niet te groot zijn.
+  > - Met Elias tot 22u. In script.js de functie openPopup() aangepast zodat de verzendknop van de chatbot (send button) dezelfde kleur krijgt als de ondertitel en de premade vragen.
+  > - Met Elias tot 22u. De oude kleurklassen verwijderd en de juiste thema-kleur (blueSend, greenSend, yellowSend, redSend) toegevoegd bij het openen van een popup.
+  > - Met Elias tot 22u. Elke popup opent met de juiste kleur.
 
 ---
 
